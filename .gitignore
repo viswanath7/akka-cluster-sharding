@@ -184,3 +184,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 ### Scala template
+/.idea/
+/journal/
